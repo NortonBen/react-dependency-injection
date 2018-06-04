@@ -1,0 +1,14 @@
+[
+  {
+    "id": "login.title",
+    "defaultMessage": "Đăng Nhập"
+  },
+  {
+    "id": "login.username",
+    "defaultMessage": "Tài Khoản"
+  },
+  {
+    "id": "login.password",
+    "defaultMessage": "Mật Khẩu"
+  }
+]

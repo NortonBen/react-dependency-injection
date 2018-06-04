@@ -1,0 +1,14 @@
+[
+  {
+    "id": "login.title",
+    "defaultMessage": "Login"
+  },
+  {
+    "id": "login.username",
+    "defaultMessage": "UserName"
+  },
+  {
+    "id": "login.password",
+    "defaultMessage": "Password"
+  }
+]

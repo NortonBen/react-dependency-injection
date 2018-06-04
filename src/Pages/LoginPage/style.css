@@ -1,0 +1,12 @@
+.btn-login-fb {
+    width:100%;margin-bottom: 20px;
+    background-color:#143571
+}
+
+.icon-fb {
+    position: absolute;
+    color: white;
+    font-size: 20px;
+    top: 10px;
+    left: 20%;
+}
